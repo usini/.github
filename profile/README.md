@@ -1,5 +1,8 @@
 Bienvenue sur le Repository de µsini👋
 ---------------------------------------
+Intéressé par des pièces gravé en métal: rdv sur https://usini.eu !
+![[usini](https://usini.eu)](https://github.com/user-attachments/assets/e8262c6a-8acb-41cf-b100-9eeeb15519b3)
+
 # Membres
 ## Rémi Sarrailh - Développeur en systèmes embarqués et applications
 ## Olivier Sarrailh - Modélisateur 3D / Concepteur Mécanique
